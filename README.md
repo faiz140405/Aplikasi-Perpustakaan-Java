@@ -6,7 +6,6 @@ Proyek ini dibuat sebagai latihan untuk memahami konsep dasar pemrograman Java, 
 
 ## Screenshot
 ![Tampilan Aplikasi](screenshot.png)
-*(**Catatan untuk Anda:** Ambil screenshot aplikasi Anda yang sedang berjalan, simpan dengan nama `screenshot.png` di dalam folder proyek utama, lalu unggah ke GitHub. Gambar akan otomatis tampil di sini.)*
 
 ## Fitur Utama
 - **Create:** Menambah data buku baru ke dalam database.
