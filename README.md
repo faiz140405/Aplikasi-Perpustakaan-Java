@@ -33,9 +33,8 @@ Pastikan Anda sudah menginstal perangkat lunak berikut:
 #### 2. Clone Repositori
 Buka terminal atau Git Bash, lalu clone repositori ini:
 ```bash
-git clone [https://github.com/NAMA_USER_ANDA/Aplikasi-Perpustakaan-Java.git](https://github.com/NAMA_USER_ANDA/Aplikasi-Perpustakaan-Java.git)
+git clone [https://github.com/faiz140405/Aplikasi-Perpustakaan-Java.git](https://github.com/faiz140405/Aplikasi-Perpustakaan-Java.git)
 ```
-*(**Catatan untuk Anda:** Ganti `NAMA_USER_ANDA` dengan username GitHub Anda)*
 
 #### 3. Setup Database
 1.  Jalankan **XAMPP Control Panel** dan start modul **Apache** dan **MySQL**.
